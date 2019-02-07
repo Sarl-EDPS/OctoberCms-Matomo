@@ -1,0 +1,6 @@
+plugin:
+    name: 'Matomo'
+    description: 'An open analytics platform, with User-Privacy Protection'
+    author: EDPS
+    icon: oc-icon-certificate
+    homepage: 'https://edps.fr'
